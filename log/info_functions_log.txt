@@ -1,0 +1,20 @@
+Дата и время: 2021-04-30 12:00:20.488951
+Имя функции: test
+Аргументы до вызова: (('Hello word',), {})
+Возвращаемое значение: Hello word
+
+Дата и время: 2021-04-30 12:05:39.197810
+Имя функции: requests_get
+Аргументы до вызова: ((['https://www.superheroapi.com/api.php/2619421814940190/search/Hulk', 'https://www.superheroapi.com/api.php/2619421814940190/search/Thanos', 'https://www.superheroapi.com/api.php/2619421814940190/search/Captain%America'],), {})
+Возвращаемое значение: <generator object requests_get.<locals>.<genexpr> at 0x0000017655BECDD0>
+
+Дата и время: 2021-04-30 12:07:55.281816
+Имя функции: parser
+Аргументы до вызова: ((), {})
+Возвращаемое значение: None
+
+Дата и время: 2021-04-30 12:09:50.162172
+Имя функции: parser
+Аргументы до вызова: ((), {})
+Возвращаемое значение: None
+
